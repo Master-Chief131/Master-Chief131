@@ -1,8 +1,7 @@
 <h1 align="center">Master Chief 131</h1>
 
 <p align="center">
-<img src="media/masterchief.gif">
-<img src="media/MaterChief131Profile.png">
+<img src="media/giphy-downsized-large.gif">
 </p>
 
 <p align="center">
