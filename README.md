@@ -1,6 +1,11 @@
 <h1 align="center">Master Chief 131</h1>
 
 <p align="center">
+<img src="media/masterchief.gif">
+<img src="media/MaterChief131Profile.png">
+</p>
+
+<p align="center">
   <a href="https://x.com/Albert_M31"><img alt="Static Badge" src="https://img.shields.io/badge/Follow_%40Albert__M31-white?style=flat&logo=X&logoColor=%23666666&logoSize=auto&labelColor=black" /></a>
 </p>
 
